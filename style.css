@@ -1,0 +1,45 @@
+img{
+    border: 5px solid white;
+    width:100%;
+}
+body{
+    background: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+.poster{
+    text-align: center;
+    width:50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: "libre baskerville", serif;
+    color: white;
+}
+#name{
+    text-align: right;
+}
+.b{
+    background-color: black;
+}
+.h{
+    color: red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+}
+.sech{
+    color:navajowhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:300;
+}
+.pa{
+    color:coral;
+    font-family:monospace;
+    font-size:larger;
+    font-weight: 900;
+}
+.thih{
+    color:aqua;
+    font-weight: 200;
+}
